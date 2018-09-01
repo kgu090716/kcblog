@@ -5,9 +5,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kcblog.tk" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: KC BLOG
+username: KCPIT
 user_description: KCPIT
-user_title: 조그마한 IT 블로그
+user_title: KCPIT
 email: kgu090716@gmail.com
 github_username: kgu090716
 disqus_username: KCPIT
