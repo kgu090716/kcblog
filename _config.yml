@@ -30,7 +30,7 @@ compress_html:
 links:
   - title: 홈
     url: /
-  - title: 시리즈
+  - title: 강좌
     url: /series
   - title: 태그
     url: /tags
